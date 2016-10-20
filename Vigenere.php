@@ -2,6 +2,10 @@
 
 namespace AnthonyBocci\Encryption;
 
+/**
+ * @class Vigenere
+ * Encrypt or Decrypt a text using Vigenere algorithm
+ */
 class Vigenere
 {
 
