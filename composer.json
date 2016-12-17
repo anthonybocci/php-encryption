@@ -1,0 +1,15 @@
+{
+    "name": "anthonybocci/php-encryption",
+    "description": "Declares some classes to encrypt/decrypt datas like Vigenere, Caesar number",
+    "type": "library",
+    "license": "GPL V3",
+    "authors": [
+        {
+            "name": "Anthony Bocci",
+            "email": "boccianthony@yahoo.fr",
+            "homepage": "http://www.anthony-bocci.fr",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
